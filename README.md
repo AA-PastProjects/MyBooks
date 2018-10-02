@@ -9,12 +9,17 @@ Nonetheless I still like how the project turned out as a whole and therefore sho
 If you download the project and run it via Netbeans, you can use the following users:
 
 User
+
 Username: Alex
+
 Password: Alex1
 
 Admin
+
 Username: superAdmin
+
 Password: superAdmin
+
 Remember to tick the "Login as admin" box in the login screen.
 
 ###Screenshots
