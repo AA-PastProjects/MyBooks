@@ -8,17 +8,7 @@
     <artifactId>helloworld</artifactId>
     <dependencies>
     <dependency>
-    <artifactId>1</artifactId>
-    <groupId>1</groupId>
-    <scope>system</scope>
-    <systemPath>${basedir}/externalJars/Synthetica/synthetica.jar</systemPath>
-    </dependency>
-    <dependency>
-    <artifactId>2</artifactId>
-    <groupId>2</groupId>
-    <scope>system</scope>
-    <systemPath>${basedir}/externalJars/Synthetica/GreenDreamTheme/V2/syntheticaGreenDream.jar</systemPath>
-    </dependency>
+
     </dependencies>
     <build>
         <plugins>

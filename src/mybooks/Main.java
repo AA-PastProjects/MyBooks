@@ -7,7 +7,7 @@ package mybooks;
 
 import BLL.MyBooksModel;
 import GUI.Login;
-import de.javasoft.plaf.synthetica.SyntheticaGreenDreamLookAndFeel;
+//import de.javasoft.plaf.synthetica.SyntheticaGreenDreamLookAndFeel;
 
 import javax.swing.UIManager;
 
@@ -35,14 +35,14 @@ public class Main
 
     private static void setLookAndFeel()
     {
-        try
+        /*try
         {
             UIManager.setLookAndFeel(new SyntheticaGreenDreamLookAndFeel());
         }
         catch (Exception e)
         {
             e.printStackTrace();
-        }
+        }*/
     }
 
 }
