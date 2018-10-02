@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* HelloWorld java -jar ./dist/MyBooks.jar
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* HelloWorld
