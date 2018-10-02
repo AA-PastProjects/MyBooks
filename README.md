@@ -1,6 +1,8 @@
-# MyBooks
+# MyBooks - Early school project
 
 This project was developed as one of the first I made after I had learned the basics of programming.
+
+It was a project concerned with making a simple library system. Since this was before we had learned anything about databases, SQL and similar, we were limited to using files and variables.
 
 I made it in collaboration with 2 classmates. I have learned much since that time about good code practice and reusabiliy of code and such. Nonetheless I still like how the project turned out as a whole and therefore show it.
 
